@@ -1,0 +1,11 @@
+{
+  "Routing": {
+    "Services": {
+      "h:/": {
+        "Targets": [
+          0.2
+        ]
+      }
+    }
+  }
+}
